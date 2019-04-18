@@ -1,4 +1,3 @@
-* [Bold 与 FileReader 通过ajax方式实现binary文件流下载和内容读取](https://github.com/front-development-wtm/front-development-blogs/issues/2)
-* [javascript 的 Array 操作函数对数组的改变性](https://github.com/front-development-wtm/front-development-blogs/issues/3)
-* [vscode 代码格式化配置](https://github.com/front-development-wtm/front-development-blogs/issues/4)
+* [mac相关使用快捷键](https://github.com/use-of-tools/blogs/issues/1)
+* [linux操用](https://github.com/use-of-tools/blogs/issues/2)
 
