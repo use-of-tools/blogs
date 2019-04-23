@@ -1,3 +1,3 @@
 * [mac相关使用快捷键](https://github.com/use-of-tools/blogs/issues/1)
-* [linux操用](https://github.com/use-of-tools/blogs/issues/2)
+* [linux操作](https://github.com/use-of-tools/blogs/issues/2)
 
