@@ -5,7 +5,7 @@
 * [NPM,YARN安装包出现以下错误提示](https://github.com/use-of-tools/blogs/issues/5)
 * [npm: ERR! sharp EACCES: permission denied, open](https://github.com/use-of-tools/blogs/issues/6)
 * [npm:unable to verify the first certificate](https://github.com/use-of-tools/blogs/issues/7)
-
+* [chrome 调式模式下自动在抛异常处进行断点](https://github.com/use-of-tools/blogs/issues/8)
 
 
 
